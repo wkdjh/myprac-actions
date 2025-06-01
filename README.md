@@ -1,1 +1,1 @@
-# myprac-actions
+# app-with-actions
